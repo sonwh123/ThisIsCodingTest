@@ -7,4 +7,4 @@
 
 
 ## NEXT
-https://www.youtube.com/watch?v=hjsFW7ry8GA&list=PLuHgQVnccGMDWjb0TWItMCfDWDs8Y3Oo7&index=4
+git으로 파일 수정하기
