@@ -8,4 +8,4 @@
 
 ## NEXT
 - git으로 파일 수정하기
-- 생활코딩 - DATABASE
+- 생활코딩 - DATABASE(MySQL, MongoDB)
