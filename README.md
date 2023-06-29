@@ -7,5 +7,4 @@
 
 
 ## NEXT
-- git으로 파일 수정하기
-- 생활코딩 - DATABASE(MySQL, MongoDB)
+- 그리디 계속 공부하기
