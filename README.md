@@ -5,6 +5,8 @@
   - '피지컬을 요구하는 문제'
   - **완전탐색, 시뮬레이션**
   - 자신의 코드가 1초에 2000만 번의 연산을 수행한다면 안정적
+### 문제 풀이 시 중요한 테크닉
+  - 방향을 설정해서 이동하는 문제 -> dx, dy 리스트를 설정하기
 ## Github
 ### Github 사용법
   - https://tagilog.tistory.com/377
@@ -24,5 +26,9 @@
 ### Python 포함 확인 연산(in, not in)
   - https://blockdmask.tistory.com/547
 
+### Python 유니코드를 활용한 문자열-숫자 변환(ord, chr)
+  - https://heytech.tistory.com/89
+
 ## NEXT
-- 구현 계속 공부하기
+- DFS/BFS 계속 공부하기
+- 파이썬 문법 정리(리스트 컴프리헨션)
